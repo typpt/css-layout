@@ -1,3 +1,5 @@
+import Flexbox from './pages/flexbox/flexbox';
+
 export default function App() {
-  return <div>App</div>;
+  return <Flexbox />;
 }
